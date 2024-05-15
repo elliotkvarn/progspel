@@ -1,0 +1,9 @@
+You decide to stay in bed
+You fall back asleep
+ZZZzzzzzzzz
+A loud boom echoes through the city.
+Your door smashes open and a man rushes into your room
+(Man) -You still in bed? It’s not safe here, come on!
+
+1: Follow
+2: Stay

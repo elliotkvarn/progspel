@@ -1,0 +1,3 @@
+$goreraegnalatar = Music.new("sound//Goreraegnalatar.kys.mp3")
+$slutasnomindaniel = Music.new("sound//NiSugerochbordeavinstalleravisualstudiocodeSlutasnominDaniel.mp3")
+$untitled3 = Music.new("sound//untitled3.mp3")

@@ -1,0 +1,6 @@
+###############################################
+What type of environment do you thrive in?
+1. In the forest
+2. In the mountains
+3. By the ocean
+4. In the city
