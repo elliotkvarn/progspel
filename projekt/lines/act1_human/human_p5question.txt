@@ -1,4 +1,0 @@
-(Man) -It’s over for him. We need to speed up or we’ll get killed too.
-1: Continue
-2: What’s going on?
-3: What if it’s not over?
